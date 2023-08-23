@@ -22,8 +22,8 @@ The majority of algorithms for classifying musical genres make use of low-level 
 
 REFERENCES:
 
-https://link.springer.com/article/10.1007/s10844-019-00582-9#Fig1
-https://ieeexplore.ieee.org/abstract/document/6414994
-https://towardsdatascience.com/musical-genre-classification-with-convolutional-neural-networks-ff04f9601a74
-https://replit.com/@SparshNagpal/Music-genre-classifier
-https://github.com/0sparsh2/Music-genre-classifier
+- https://link.springer.com/article/10.1007/s10844-019-00582-9#Fig1  
+- https://ieeexplore.ieee.org/abstract/document/6414994
+- https://towardsdatascience.com/musical-genre-classification-with-convolutional-neural-networks-ff04f9601a74  
+- https://replit.com/@SparshNagpal/Music-genre-classifier  
+- https://github.com/0sparsh2/Music-genre-classifier  
